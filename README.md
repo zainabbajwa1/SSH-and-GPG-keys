@@ -1,1 +1,1 @@
-# SSH-and-GPG-keys
+cat ~/.ssh/id_ed25519.pub
